@@ -1,4 +1,4 @@
-# CSE330 Lab Assignments
+﻿# CSE330 Lab Assignments
 
 This repository contains my lab assignments for CSE330 (Computer Systems Programming) course.
 
@@ -13,12 +13,12 @@ This repository contains my lab assignments for CSE330 (Computer Systems Program
 
 ## Repository Structure
 
-- `22101371_Assignment 2.ipynb` - Assignment 2: [Brief description]
-- `22101371_Assignment 3.ipynb` - Assignment 3: [Brief description]
-- `22101371_Assignment 4.ipynb` - Assignment 4: [Brief description]
-- `22101371_Assignment 5.ipynb` - Assignment 5: [Brief description]
-- `22101371_Assignment 6.ipynb` - Assignment 6: [Brief description]
-- `22101371_Assignment 7.ipynb` - Assignment 7: [Brief description]
+- `22101371_Assignment 2.ipynb` - Assignment 2: 
+- `22101371_Assignment 3.ipynb` - Assignment 3: 
+- `22101371_Assignment 4.ipynb` - Assignment 4: 
+- `22101371_Assignment 5.ipynb` - Assignment 5: 
+- `22101371_Assignment 6.ipynb` - Assignment 6: 
+- `22101371_Assignment 7.ipynb` - Assignment 7: 
 
 ## Prerequisites
 
